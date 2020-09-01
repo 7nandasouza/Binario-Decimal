@@ -1,3 +1,6 @@
+![foto-app](https://github.com/7nandasouza/Binario2Decimal/blob/master/app.png)
+
+
 # Binário Decimal
 Um app onde o usuário pode tranformar número binário em decimal,ultilizando sistema binário usado por computadores para criar informações ,composto por apenas dois algoritmo 0 e 1. Portanto, são formadas sequências e a partir delas, são formadas letras, palavras, textos, cálculos.
 
